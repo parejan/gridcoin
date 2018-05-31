@@ -1,8 +1,8 @@
-https://steemitimages.com/DQmQ7REZqQpoeimXBy3fkenHUNjnhD3YU82jMSnXCug79Nx/image.png
+https://cdn.steemitimages.com/DQmQe7Ws17akRPnWjjgDed3wVo49ZoipnXLAAYt3ZJDwtyx/image.png
 
 <p><div class="pull-right">https://steemitimages.com/DQmNSv5FPKWmoZdEgF3GuvNpwAxueoaWZDFv7a48HPpc8WJ/image.png</div><strong><a href="http://gridcoin.us/">Gridcoin</a></strong> is an open source <a href="https://en.wikipedia.org/wiki/Cryptocurrency">cryptocurrency</a> (Ticker: GRC) which securely rewards volunteer computing performed upon the <a href="https://boinc.berkeley.edu/">BOINC platform</a> in a decentralized manner on top of <a href="http://wiki.gridcoin.us/Proof-of-Research#Proof-of-Stake">proof of stake</a>.</p>
-<p><div class="pull-left">https://steemitimages.com/DQmT2Q7sjXJgyUMRZK78HMztDkzzVZrYu14MzacW9nZj665/image.png</div><strong><a href="https://boinc.berkeley.edu/">BOINC</a></strong> (Berkeley Open Infrastructure for Network Computing) is a distributed Internet platform and was launched beginning of 2002 and it rewards participants with credits for performed work. BOINC is an application available for multiple Operating Systems and uses the unused CPU and GPU cycles on computers to perform scientific work.</p>
+<p><div class="pull-left">https://steemitimages.com/DQmT2Q7sjXJgyUMRZK78HMztDkzzVZrYu14MzacW9nZj665/image.png</div><strong><a href="https://boinc.berkeley.edu/">BOINC</a></strong> (Berkeley Open Infrastructure for Network Computing) is a distributed Internet platform launched beginning of 2002 and rewards participants with credits for performed work. BOINC is an application available for multiple Operating Systems and utilises the unused CPU and GPU cycles on computers to perform scientific work.</p>
 
-https://steemitimages.com/DQmQ7REZqQpoeimXBy3fkenHUNjnhD3YU82jMSnXCug79Nx/image.png
+https://cdn.steemitimages.com/DQmQe7Ws17akRPnWjjgDed3wVo49ZoipnXLAAYt3ZJDwtyx/image.png
 Thanks for reading. Follow me for more BOINC & Gridcoin related articles.
-https://steemitimages.com/DQmQ7REZqQpoeimXBy3fkenHUNjnhD3YU82jMSnXCug79Nx/image.png
+https://cdn.steemitimages.com/DQmQe7Ws17akRPnWjjgDed3wVo49ZoipnXLAAYt3ZJDwtyx/image.png
